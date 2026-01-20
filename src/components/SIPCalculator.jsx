@@ -135,7 +135,7 @@ function SIPCalculator() {
 
   return (
     <div className="sip-calculator">
-      <h1>SIP Calculator</h1>
+      <h1>SIP Calculator Testing</h1>
       <p className="subtitle">Calculate your Systematic Investment Plan returns</p>
       
       <div className="calculator-container">
